@@ -1,7 +1,6 @@
 package com.electromagnetic.sandbox.generator
 
 import com.electromagnetic.sandbox.models.*
-import com.example.demo.models.*
 import org.springframework.stereotype.Service
 
 @Service
